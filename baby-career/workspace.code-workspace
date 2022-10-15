@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "baby-career",
+			"path": "."
+		},
+		{
+			"name": "teacher-help",
+			"path": "..\\teacher-help"
+		},
+		{
+			"name": "bbs-app",
+			"path": "..\\bbs-app"
+		}
+	],
+	"settings": {}
+}
